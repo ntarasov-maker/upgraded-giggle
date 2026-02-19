@@ -1,0 +1,102 @@
+[
+  {
+    "db_id": 1,
+    "goal": "POLICY_PURCHASE",
+    "POLICY_NO": "L0123/456/789101/1",
+    "FUND_NAME": "Активные облигации",
+    "EVENT_TYPES": "POLICY_PURCHASE",
+    "FIRED_EVENT_TIMESTAMP": 1756771200,
+    "SUM": "50000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 2,
+    "goal": "PART_PAYOUT_M",
+    "POLICY_NO": "L0123/456/789102/2",
+    "FUND_NAME": "Консервативные облигации",
+    "EVENT_TYPES": "PART_PAYOUT_M",
+    "FIRED_EVENT_TIMESTAMP": 1756771300,
+    "SUM": "25000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 3,
+    "goal": "ISJ2_OPERATION",
+    "POLICY_NO": "L0123/456/789103/3",
+    "FUND_NAME": "Агрессивные акции",
+    "EVENT_TYPES": "ISJ2_OPERATION",
+    "FIRED_EVENT_TIMESTAMP": 1756771400,
+    "SUM": "15000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 4,
+    "goal": "POLICY_PURCHASE",
+    "POLICY_NO": "L0123/456/789104/4",
+    "FUND_NAME": "Сбалансированный портфель",
+    "EVENT_TYPES": "POLICY_PURCHASE",
+    "FIRED_EVENT_TIMESTAMP": 1756771500,
+    "SUM": "75000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 5,
+    "goal": "POLICY_CANCELLATION",
+    "POLICY_NO": "L0123/456/789105/5",
+    "FUND_NAME": "Индексные фонды",
+    "EVENT_TYPES": "POLICY_CANCELLATION",
+    "FIRED_EVENT_TIMESTAMP": 1756771600,
+    "SUM": "0",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 6,
+    "goal": "FULL_PAYOUT",
+    "POLICY_NO": "L0123/456/789106/6",
+    "FUND_NAME": "Денежный рынок",
+    "EVENT_TYPES": "FULL_PAYOUT",
+    "FIRED_EVENT_TIMESTAMP": 1756771700,
+    "SUM": "100000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 7,
+    "goal": "POLICY_RENEWAL",
+    "POLICY_NO": "L0123/456/789107/7",
+    "FUND_NAME": "Корпоративные облигации",
+    "EVENT_TYPES": "POLICY_RENEWAL",
+    "FIRED_EVENT_TIMESTAMP": 1756771800,
+    "SUM": "30000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 8,
+    "goal": "POLICY_PURCHASE",
+    "POLICY_NO": "L0123/456/789108/8",
+    "FUND_NAME": "Государственные облигации",
+    "EVENT_TYPES": "POLICY_PURCHASE",
+    "FIRED_EVENT_TIMESTAMP": 1756771900,
+    "SUM": "120000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 9,
+    "goal": "CLAIM_SUBMITTED",
+    "POLICY_NO": "L0123/456/789109/9",
+    "FUND_NAME": "Международные акции",
+    "EVENT_TYPES": "CLAIM_SUBMITTED",
+    "FIRED_EVENT_TIMESTAMP": 1756772000,
+    "SUM": "45000",
+    "CURRENCY": "RUB"
+  },
+  {
+    "db_id": 10,
+    "goal": "PREMIUM_PAYMENT",
+    "POLICY_NO": "L0123/456/789110/10",
+    "FUND_NAME": "Недвижимость",
+    "EVENT_TYPES": "PREMIUM_PAYMENT",
+    "FIRED_EVENT_TIMESTAMP": 1756772100,
+    "SUM": "60000",
+    "CURRENCY": "RUB"
+  }
+]
